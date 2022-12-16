@@ -9,11 +9,25 @@
 
 How tu use:
 
-!
+Once you reach UFO Finder, you will land in this page:
 
-!
+![Webpage](https://user-images.githubusercontent.com/113866707/208001211-7d1dd418-ad85-4c71-824e-5a7797045156.png)
 
-B
+Here, UFO fans would be able to filter UFO sightings from the data table that is displayed. To perform any filter, users can either filter by date, city, state, country or UFO shape (either individually or performing several filters).
+
+In the following example, we entered a filter for "El Cajon" city on "1/1/2010". In order to clear the filters, users must update the web browser.
+
+![Filter](https://user-images.githubusercontent.com/113866707/208001254-4c41eafc-c91b-41c2-88dc-db5f63cda58e.png)
+
+Regarding the inside engines for the webpage to work:
+
+The following is the HTML code that showcases the Filter Box with the different parameters to filter data.
+
+![HTML filter](https://user-images.githubusercontent.com/113866707/208001281-2fdfd32c-d9d2-4157-b7cd-3b5c62746eb6.png)
+
+The next code is where the magic happens. Here you can see the Javascript code I used in order to perform the filtering of data according to the user input:
+
+![js code](https://user-images.githubusercontent.com/113866707/208001300-4fe6e45e-c4c5-437f-add4-bb01c54c0068.png)
 
     
 ---

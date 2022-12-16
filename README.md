@@ -20,7 +20,7 @@ B
 
 ## Summary
 
-- One drawback from the page is that in order to clear the current filters entered, the user has to press "update" webpage in order to have a fresh view. 
+- One drawback from the page is that in order to clear the current filters entered, the user has to press "update" webpage in order to have a fresh view. Additionally, I would recommend to make a list to choose values from the filter search, so users can identify what options are available. 
 
 - Adding pictures of the shape of the UFO sighting and being able to see them once the information is filtered would enhance the experience for the user.
 
